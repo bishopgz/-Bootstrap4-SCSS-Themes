@@ -1,6 +1,10 @@
 # Front End Development Themes
 <hr>
-This repository holds all my front-end projects using<br>
-technologies such as HTML, CSS, jQuery, Vanilla JS, NodeJS, CSS3, SCSS etc.<br>
+<br>
+<table>
+  <tr><td>This repository holds all my front-end projects using technologies<br>
+    such as HTML, CSS, jQuery, Vanilla JS, NodeJS, CSS3, SCSS, AJAX etc.</td></tr></table>
+It is important to mention that you should give appropriate credit if you<br>
+use code from a part or a completed theme project.
 
 
