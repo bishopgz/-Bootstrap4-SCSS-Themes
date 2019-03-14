@@ -1,3 +1,6 @@
-# Bootstrap|SCSS Themes
+# Front End Development Themes
 <hr>
-This is the place where I keep all the themes I've developed for either front-end based projects.
+This repository holds all my front-end projects using<br>
+technologies such as HTML, CSS, jQuery, Vanilla JS, NodeJS, CSS3, SCSS etc.<br>
+
+
